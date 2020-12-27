@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sabrinachan3.github.io/web-dent/static/css/main.8de77cfd.chunk.css",
-    "main.js": "/sabrinachan3.github.io/web-dent/static/js/main.29794c45.chunk.js",
-    "main.js.map": "/sabrinachan3.github.io/web-dent/static/js/main.29794c45.chunk.js.map",
-    "runtime-main.js": "/sabrinachan3.github.io/web-dent/static/js/runtime-main.b72145be.js",
-    "runtime-main.js.map": "/sabrinachan3.github.io/web-dent/static/js/runtime-main.b72145be.js.map",
-    "static/js/2.9936562c.chunk.js": "/sabrinachan3.github.io/web-dent/static/js/2.9936562c.chunk.js",
-    "static/js/2.9936562c.chunk.js.map": "/sabrinachan3.github.io/web-dent/static/js/2.9936562c.chunk.js.map",
-    "static/js/3.62f19962.chunk.js": "/sabrinachan3.github.io/web-dent/static/js/3.62f19962.chunk.js",
-    "static/js/3.62f19962.chunk.js.map": "/sabrinachan3.github.io/web-dent/static/js/3.62f19962.chunk.js.map",
-    "index.html": "/sabrinachan3.github.io/web-dent/index.html",
-    "static/css/main.8de77cfd.chunk.css.map": "/sabrinachan3.github.io/web-dent/static/css/main.8de77cfd.chunk.css.map",
-    "static/js/2.9936562c.chunk.js.LICENSE.txt": "/sabrinachan3.github.io/web-dent/static/js/2.9936562c.chunk.js.LICENSE.txt",
-    "static/media/linkedin.108a5a85.png": "/sabrinachan3.github.io/web-dent/static/media/linkedin.108a5a85.png",
-    "static/media/profile_pic.e07a2acc.JPG": "/sabrinachan3.github.io/web-dent/static/media/profile_pic.e07a2acc.JPG"
+    "main.css": "/web-dent/static/css/main.8de77cfd.chunk.css",
+    "main.js": "/web-dent/static/js/main.29794c45.chunk.js",
+    "main.js.map": "/web-dent/static/js/main.29794c45.chunk.js.map",
+    "runtime-main.js": "/web-dent/static/js/runtime-main.04f4a433.js",
+    "runtime-main.js.map": "/web-dent/static/js/runtime-main.04f4a433.js.map",
+    "static/js/2.9936562c.chunk.js": "/web-dent/static/js/2.9936562c.chunk.js",
+    "static/js/2.9936562c.chunk.js.map": "/web-dent/static/js/2.9936562c.chunk.js.map",
+    "static/js/3.62f19962.chunk.js": "/web-dent/static/js/3.62f19962.chunk.js",
+    "static/js/3.62f19962.chunk.js.map": "/web-dent/static/js/3.62f19962.chunk.js.map",
+    "index.html": "/web-dent/index.html",
+    "static/css/main.8de77cfd.chunk.css.map": "/web-dent/static/css/main.8de77cfd.chunk.css.map",
+    "static/js/2.9936562c.chunk.js.LICENSE.txt": "/web-dent/static/js/2.9936562c.chunk.js.LICENSE.txt",
+    "static/media/linkedin.108a5a85.png": "/web-dent/static/media/linkedin.108a5a85.png",
+    "static/media/profile_pic.e07a2acc.JPG": "/web-dent/static/media/profile_pic.e07a2acc.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.b72145be.js",
+    "static/js/runtime-main.04f4a433.js",
     "static/js/2.9936562c.chunk.js",
     "static/css/main.8de77cfd.chunk.css",
     "static/js/main.29794c45.chunk.js"

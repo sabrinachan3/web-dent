@@ -1,0 +1,22 @@
+body {
+  background-color: #1e1e1e;
+  font-family: cursive;
+  color: aliceblue;
+}
+
+.App {
+  text-align: center;
+}
+
+.title {
+  font-size: 35px;
+}
+
+.description {
+  font-size: 24px;
+}
+
+.profile_pic {
+  max-width: 250px;
+}
+

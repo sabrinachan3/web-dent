@@ -2,7 +2,7 @@
   "name": "web-dent",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/sabrinachan3.github.io/web-dent",
+  "homepage": "https://sabrinachan3.github.io/web-dent",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/free-regular-svg-icons": "^5.15.1",

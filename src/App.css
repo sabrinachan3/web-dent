@@ -1,23 +1,41 @@
 body {
-  background-color: #F8EDEB;
+  background-color: #EDF6F9;
   font-family: monospace;
-  color: #FFB5A7;
-}
-
-.App {
   text-align: center;
 }
 
+.header {
+  text-align: center;
+}
+
+.top-bar-phone{
+  color: white;
+  background-color: #E29578;
+  /* max-height: 200000px; height doesnt affect anything*/
+}
 
 .title {
   font-size: 35px;
+  color: #006D77;
 }
 
 .description {
   font-size: 24px;
+  color: #83C5BE;
 }
 
 .profile_pic {
   max-width: 250px;
 }
 
+.opening_hours_header{
+  color: #006D77;
+}
+
+.table {
+  text-align: left;
+  table-layout: auto;
+  border-spacing: 8px;
+  padding-left: 525px;
+  padding-bottom: 10px;
+}

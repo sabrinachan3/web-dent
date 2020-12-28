@@ -1,6 +1,6 @@
 body {
   background-color: #EDF6F9;
-  font-family: monospace;
+  font-family: Roboto Slab;
   text-align: center;
 }
 
@@ -29,6 +29,7 @@ body {
 }
 .opening_hours_header{
   color: #006D77;
+  font-family: Questrial;
 }
 
 .table {
@@ -37,4 +38,5 @@ body {
   border-spacing: 8px;
   padding-left: 525px;
   padding-bottom: 10px;
+  font-family: Questrial;
 }

@@ -1,35 +1,15 @@
-import React, { Component } from 'react';
-import GoogleMapReact from 'google-map-react';
- 
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
- 
-class SimpleMap extends Component {
-  static defaultProps = {
-    center: {
-      lat: 59.95,
-      lng: 30.33
-    },
-    zoom: 11
-  };
- 
-  render() {
+import React from 'react'
+import map from '../Images/map.png'
+
+import "./MyMap.css"
+
+function MyIcon() {
     return (
-      // Important! Always set the container height explicitly
-      <div style={{ height: '100vh', width: '100%' }}>
-        <GoogleMapReact
-        //  bootstrapURLKeys={{ key: https://www.google.com/maps/place/Dr.+Evangelia+Valavanis/@45.538137,-73.7580066,15z/data=!4m2!3m1!1s0x0:0x5205598bfb533fd4?sa=X&hl=en&ved=2ahUKEwiWzI_4vO_tAhVET98KHZgGDhQQ_BIwCnoECBYQBQ }}
-          defaultCenter={this.props.center}
-          defaultZoom={this.props.zoom}
-        >
-          <AnyReactComponent
-            lat={59.955413}
-            lng={30.337844}
-            text="My Marker"
-          />
-        </GoogleMapReact>
-      </div>
+        <a className="map-link" href="https://www.google.com/maps/place/Dr.+Evangelia+Valavanis/
+        @45.5380385,-73.760495,16z/data=!4m5!3m4!1s0x4cc92305ef6e1dfd:0x5205598bfb533fd4!8m2!3d45.538137!4d-73.7580066?hl=en">
+            <img className="map" src={map} alt=""></img>
+       </a>
     );
-  }
 }
- 
-export default SimpleMap;
+
+export default MyIcon;
